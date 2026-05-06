@@ -9,6 +9,7 @@
     "groups": [
       {
         "group": "Getting Started",
+        "hidden": true,
         "pages": [
           "home"
         ]
